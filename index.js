@@ -16,6 +16,8 @@
 // @match			*://*.douyu.com/9*
 // @icon            https://www.douyu.com/favicon.ico
 // @grant           GM_addStyle
+// @downloadURL     https://update.greasyfork.org/scripts/563628/Remove%20Douyu%20Gift%20-%20%E9%9A%90%E8%97%8F%E6%96%97%E9%B1%BC%E7%A4%BC%E7%89%A9%E6%A0%8F.user.js
+// @updateURL       https://update.greasyfork.org/scripts/563628/Remove%20Douyu%20Gift%20-%20%E9%9A%90%E8%97%8F%E6%96%97%E9%B1%BC%E7%A4%BC%E7%89%A9%E6%A0%8F.meta.js
 // ==/UserScript==
 
 (function() {
