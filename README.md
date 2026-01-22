@@ -1,2 +1,3 @@
 # Remove Douyu Gift
-隐藏斗鱼礼物栏，保留和美化工具栏
+
+`Remove Douyu Gift`是一款基于`JavaScript`开发的`TamperMonkey`（油猴）脚本，用于隐藏斗鱼直播间的礼物栏以及优化工具栏的显示效果。
