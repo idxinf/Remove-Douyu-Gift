@@ -1,0 +1,19 @@
+{
+  "name": "remove-douyu-gift",
+  "version": "1.0.0",
+  "description": "隐藏斗鱼礼物栏，保留和美化工具栏",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idxinf/Remove-Douyu-Gift.git"
+  },
+  "author": "idxinf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idxinf/Remove-Douyu-Gift/issues"
+  },
+  "homepage": "https://github.com/idxinf/Remove-Douyu-Gift#readme"
+}
