@@ -1,15 +1,19 @@
+:root {
+    --toolbar-height: 32px;
+}
+
 html body [class^=stream__] {
-    bottom: 32px;
+    bottom: var(--toolbar-height);
 }
 
 html body [class^=interactive__] {
-    height: 32px;
+    height: var(--toolbar-height);
     background-image: none;
     background-color: #000;
 }
 
 .PlayerToolbar {
-    height: 32px;
+    height: var(--toolbar-height);
 }
 
 .PlayerToolbar-ContentRow, .ToolbarGiftArea-container {
