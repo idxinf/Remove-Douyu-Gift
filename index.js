@@ -4,6 +4,7 @@
 // @version         1.0.0
 // @description     隐藏斗鱼礼物栏和优化工具栏
 // @author          idxinf
+// @license         MIT
 // @match			*://*.douyu.com/0*
 // @match			*://*.douyu.com/1*
 // @match			*://*.douyu.com/2*
