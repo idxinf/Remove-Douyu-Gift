@@ -1,7 +1,7 @@
 {
   "name": "remove-douyu-gift",
   "version": "1.0.0",
-  "description": "隐藏斗鱼礼物栏，保留和美化工具栏",
+  "description": "隐藏斗鱼礼物栏和优化工具栏",
   "main": "index.js",
   "scripts": {
     "build": "node build"
